@@ -70,12 +70,8 @@ Python3 / Django / sqlite
 깃허브 외부에 있는 이집저집 관련 문서들의 목록과 링크입니다!
 ```
 
-[🎨 프로토타입, 기획서](https://www.figma.com/file/ZXDGBL14spjQN5Sg5oNKmk/F4---Dukscord-team-library?node-id=0%3A1)
+[🎨 디자인](https://www.figma.com/file/cA5MyugW7AR5VS6Wduax9w/%ED%95%B4%EC%BB%A4%ED%86%A4-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%99%84%EC%84%B1)
 
-[✅ 프로젝트 백로그](https://docs.google.com/spreadsheets/d/1ZE9i0EBaLrRuUyG1Lm7QnRl2xQV2y2bbJFFlxtXfe3s/edit#gid=0)
+[📡 API 명세서](https://wild-airedale-d68.notion.site/API-Documentation-d2b0c858a1b143ccad0df0c877d7169b)
 
-[📡 API 명세서](https://documenter.getpostman.com/view/14299488/UVJcncc2)
-
-[🗒 Notion 회의록](https://seojinseojin.notion.site/Boost-Camp-Final-Project-78fc4440fc2d45d99b5f47b9bac60fec)
-
-[🍀 데모데이 소개 자료](https://seojinseojin.notion.site/ecb9c3c8db3346cd97ad5d35fde624c0)
+[🗒 타임라인 및 회고록](https://wild-airedale-d68.notion.site/36d90572c1a74d1fb02c72b3a6f3660d)
