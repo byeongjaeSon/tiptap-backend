@@ -28,6 +28,11 @@
 
 <br/>
 
+## 🛠 백엔드 적용 기술
+Python3 / Django / sqlite
+
+<br/>
+
 
 ## 🎞 데모 영상 및 기능 소개
 ### ✅ 체크리스트 생성
@@ -62,10 +67,7 @@
 ### 📂 프로젝트 관련 문서
 
 ```
-깃허브 외부에 있는 덕스코드 관련 문서들의 목록과 링크입니다!
-
-깃허브 위키에도 많은 내용들이 적혀있으니 구경해주세요! 
-✅ https://github.com/boostcampwm-2021/web09-Duxcord/wiki
+깃허브 외부에 있는 이집저집 관련 문서들의 목록과 링크입니다!
 ```
 
 [🎨 프로토타입, 기획서](https://www.figma.com/file/ZXDGBL14spjQN5Sg5oNKmk/F4---Dukscord-team-library?node-id=0%3A1)
@@ -77,25 +79,3 @@
 [🗒 Notion 회의록](https://seojinseojin.notion.site/Boost-Camp-Final-Project-78fc4440fc2d45d99b5f47b9bac60fec)
 
 [🍀 데모데이 소개 자료](https://seojinseojin.notion.site/ecb9c3c8db3346cd97ad5d35fde624c0)
-
-    
-### 🐤 기술 스택
-
-```
-덕스코드 프로젝트에 사용된 기술스택 목록입니다.
-```
-
-<div align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/><br>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SWR-E5E5E5?style=flat-square"/>
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/><br>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=Express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeORM-FF4716?style=flat-square&logo=%20Actions&logoColor=white"/><br>
-  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React%20Testing%20Library-121212?style=flat-square&logo=Testing Library&logoColor=E33332"/>
-  <img src="https://img.shields.io/badge/github action-2671E5?style=flat-square&logo=GitHub%20Actions&logoColor=white"/>
-</div>
